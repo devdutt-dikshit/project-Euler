@@ -3,6 +3,7 @@ import time
 import math
 t1=time.time()
 y=[]
+
 def is_prime(n):
     if n<=1:
         return False
